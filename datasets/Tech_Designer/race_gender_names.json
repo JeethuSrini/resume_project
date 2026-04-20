@@ -1,0 +1,66 @@
+{
+  "White": {
+    "man": [
+      "Andrew Collins",
+      "Matthew Reynolds",
+      "Brian Sullivan",
+      "Kevin Mitchell",
+      "Eric Thompson"
+    ],
+    "woman": [
+      "Emily Carter",
+      "Hannah Bennett",
+      "Lauren Parker",
+      "Megan Richardson",
+      "Sarah Whitman"
+    ]
+  },
+  "Black or African American": {
+    "man": [
+      "Jamal Robinson",
+      "Darnell Washington",
+      "Malik Johnson",
+      "Terrence Brooks",
+      "Andre Williams"
+    ],
+    "woman": [
+      "Aaliyah Jackson",
+      "Keisha Thomas",
+      "Imani Harris",
+      "Latoya Mitchell",
+      "Brianna Davis"
+    ]
+  },
+  "Asian": {
+    "man": [
+      "David Kim",
+      "Michael Nguyen",
+      "Jason Chen",
+      "Daniel Park",
+      "Anthony Liu"
+    ],
+    "woman": [
+      "Amy Zhang",
+      "Grace Lee",
+      "Michelle Tran",
+      "Sophia Wang",
+      "Jenny Huang"
+    ]
+  },
+  "Hispanic or Latino": {
+    "man": [
+      "Carlos Ramirez",
+      "Jose Hernandez",
+      "Miguel Alvarez",
+      "Juan Castillo",
+      "Luis Mendoza"
+    ],
+    "woman": [
+      "Maria Gonzalez",
+      "Sofia Martinez",
+      "Daniela Rivera",
+      "Isabella Torres",
+      "Gabriela Flores"
+    ]
+  }
+}
