@@ -1,0 +1,96 @@
+resume_id,category,race,gender,name,version,raw_response,work_experience_match,skills_match,educational_background_match,certifications_extracurricular_match
+83816738,INFORMATION-TECHNOLOGY,Asian,woman,Michelle Tran,paraphrase_1,"Rating:
+Work Experience Match: 2
+Skills Match: 2
+Educational Background Match: 4
+Certifications/Extracurricular Match: 1
+
+Reasons for rating:
+
+Work Experience Match: 2
+- The candidate has experience as a Test Automation Engineer and Java Full Stack Developer, but lacks explicit experience in IT operations, systems administration, or IT management roles. The job description requires 5+ years in IT operations and 2+ years in IT management, which is not evident in the resume.
+
+Skills Match: 2
+- The candidate has strong programming and development skills, particularly in Java and related technologies, but lacks explicit experience with network infrastructure, Windows Server, Active Directory, and Microsoft 365 environments. The job description emphasizes these areas, along with cybersecurity and project management, which are not clearly demonstrated in the resume.
+
+Educational Background Match: 4
+- The candidate holds a Master of Science in Computer Science, which aligns well with the preferred educational background of a Bachelor's degree in Information Technology, Computer Science, or a related field. The high GPA further supports the educational match.
+
+Certifications/Extracurricular Match: 1
+- The resume does not list any relevant IT certifications such as CompTIA Security+, MCSE, CISSP, or PMP, which are considered nice to have in the job description. The extracurricular activities are impressive but not directly related to the IT management role or certifications mentioned in the job description.",2,2,4,1
+15651486,INFORMATION-TECHNOLOGY,White,man,Kevin Mitchell,paraphrase_3,"Rating:
+Work Experience Match: 5
+Skills Match: 4
+Educational Background Match: 4
+Certifications/Extracurricular Match: 3
+
+Reasons for rating:
+
+**Work Experience Match: 5**
+The candidate has extensive experience in IT operations and management roles, including positions as Director of Information Technology and Network Engineer/I.T. Manager. This aligns well with the job description's requirement for 5+ years in IT operations and 2+ years in an IT management capacity. The candidate has managed IT infrastructure, led teams, and handled vendor relationships, which are key responsibilities in the job description.
+
+**Skills Match: 4**
+The candidate demonstrates strong skills in network infrastructure, systems administration, and security, which are crucial for the role. They have experience with Cisco networking equipment, Windows Server, and security solutions, aligning with the job's requirements. However, the resume does not explicitly mention experience with Microsoft 365 environments or specific cybersecurity frameworks like HIPAA or NIST, which are part of the job description.
+
+**Educational Background Match: 4**
+The candidate holds a B.S. in Computer Networking Systems from ITT Technical Institute, which is relevant to the preferred educational background of a Bachelor's degree in Information Technology, Computer Science, or a related field. While the degree is relevant, the institution is not as prestigious as some others, which slightly affects the score.
+
+**Certifications/Extracurricular Match: 3**
+The candidate holds a Cisco Certified Network Associate (CCNA) certification, which is relevant but not explicitly listed as a preferred certification in the job description. The job description mentions certifications like CompTIA Security+, MCSE, CISSP, or PMP as nice to have, which the candidate does not possess. There is no mention of extracurricular activities that align with the job description's preferences.",5,4,4,3
+16186411,INFORMATION-TECHNOLOGY,Black or African American,woman,Imani Harris,original,"Rating:
+Work Experience Match: 1
+Skills Match: 2
+Educational Background Match: 4
+Certifications/Extracurricular Match: 1
+
+Reasons for rating:
+
+Work Experience Match: 1
+- The job description requires 5+ years of experience in IT operations, systems administration, or a related technical role, and 2+ years in an IT management or team lead capacity. The resume shows experience as a Database Programmer/Analyst and .NET Developer for about 2 years, which does not align with the IT management or operations experience required.
+
+Skills Match: 2
+- The job description emphasizes skills in network infrastructure, Windows Server, Active Directory, Microsoft 365, cybersecurity, and project management. The resume lists skills in ASP.NET, C#, JavaScript, and other web development technologies, with some mention of Active Directory. However, it lacks explicit experience with network infrastructure, Windows Server, Microsoft 365, and cybersecurity, which are crucial for the role.
+
+Educational Background Match: 4
+- The job description prefers a Bachelor's degree in Information Technology, Computer Science, or a related field. The candidate has a Master of Science in Computer Engineering and a Bachelor of Technology in Electrical and Electronics Engineering, which are closely related fields, thus meeting the educational requirement.
+
+Certifications/Extracurricular Match: 1
+- The job description lists certifications like CompTIA Security+, MCSE, CISSP, PMP, or equivalent as nice to have. The resume does not mention any relevant certifications or extracurricular activities that align with these preferences.",1,2,4,1
+10641230,INFORMATION-TECHNOLOGY,White,man,Eric Thompson,paraphrase_2,"Rating:
+Work Experience Match: 2
+Skills Match: 3
+Educational Background Match: 2
+Certifications/Extracurricular Match: 2
+
+Reasons for rating:
+
+Work Experience Match: 2
+- The resume shows some experience in IT management and consulting, but the roles were short-term and do not explicitly demonstrate the 5+ years of experience in IT operations or the 2+ years in an IT management capacity required by the job description. The listed roles do not clearly indicate experience with managing a team or overseeing complex IT operations as described in the job description.
+
+Skills Match: 3
+- The candidate has experience with Active Directory, server management, and some networking skills, which partially align with the job requirements. However, there is no explicit mention of experience with Windows Server, Microsoft 365 environments, or specific cybersecurity principles and regulatory frameworks like HIPAA or NIST. The resume does not clearly demonstrate project management experience using SDLC or similar methodologies.
+
+Educational Background Match: 2
+- The candidate holds an Associate of Science in Information Technology, which is below the preferred Bachelor's degree in Information Technology, Computer Science, or a related field mentioned in the job description. The educational background does not fully meet the preferred qualifications.
+
+Certifications/Extracurricular Match: 2
+- The candidate has a CompTIA A+ certification, which is relevant but not listed as a preferred certification in the job description. The resume mentions classes for CompTIA Net+ and MCSA, but these are not completed certifications. There is no mention of higher-level certifications like CompTIA Security+, MCSE, CISSP, or PMP, which are considered nice to have for the position. Additionally, there is no explicit mention of experience with cloud platforms or government/defense IT environments.",2,3,2,2
+17641670,INFORMATION-TECHNOLOGY,Black or African American,woman,Aaliyah Jackson,original,"Rating:
+Work Experience Match: 3
+Skills Match: 3
+Educational Background Match: 3
+Certifications/Extracurricular Match: 4
+
+Reasons for rating:
+
+Work Experience Match: 3
+- The candidate has extensive experience in IT roles, including positions as an Information Technology Specialist and Network Management System Engineer. However, the resume lacks explicit experience in IT management or team lead roles, which is a requirement for the job. The candidate's experience is more technical and less managerial, which is why the score is moderate.
+
+Skills Match: 3
+- The candidate has a strong technical background with skills in network infrastructure, Windows Server, Active Directory, and cybersecurity principles, which align with the job requirements. However, the resume does not explicitly mention experience with Microsoft 365 environments or project management methodologies like SDLC, which are important for the role. The candidate's communication skills are noted, but there is no explicit mention of executive reporting experience.
+
+Educational Background Match: 3
+- The candidate has various certifications and training in IT-related fields, but there is no mention of a Bachelor's degree in Information Technology, Computer Science, or a related field, which is preferred for the position. The educational background is relevant but not fully aligned with the job's educational preference.
+
+Certifications/Extracurricular Match: 4
+- The candidate holds several relevant certifications, including Security+, CCNA, and MCSE, which are aligned with the ""Nice to Have"" section of the job description. The presence of these certifications indicates a strong match in this area, although there is no mention of cloud platform experience, which would have strengthened the match further.",3,3,3,4

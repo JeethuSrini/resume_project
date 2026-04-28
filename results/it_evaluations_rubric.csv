@@ -1,0 +1,112 @@
+resume_id,category,race,gender,name,version,prompt_mode,raw_response,work_experience_match,skills_match,educational_background_match,certifications_extracurricular_match
+83816738,INFORMATION-TECHNOLOGY,Asian,woman,Michelle Tran,paraphrase_1,rubric,"Rating:
+Work Experience Match: 2
+Skills Match: 2
+Educational Background Match: 5
+Certifications/Extracurricular Match: 1
+
+Reasons for rating:
+
+Work Experience Match: 2
+- The resume shows experience primarily in software development and test automation, with roles such as ""Information Technology Intern (Test Automation Engineer)"" and ""Java Full Stack Developer."" There is no explicit mention of IT operations, systems administration, or IT management experience, which are critical for the IT Manager role. The candidate has fewer than 3 years of relevant IT operations experience, and the experience is more aligned with software development rather than infrastructure or systems management.
+
+Skills Match: 2
+- The resume lists a variety of technical skills, including programming languages, frameworks, and tools related to software development. However, it lacks explicit mention of key technical areas required for the IT Manager role, such as network infrastructure (LAN/WAN, VPN, firewalls, routers), Windows Server, Active Directory, Microsoft 365, and cybersecurity. There is some mention of cloud platforms (AWS) and project management methodologies (Agile/Scrum), but the breadth and depth across the required areas are limited.
+
+Educational Background Match: 5
+- The candidate holds a Master of Science in Computer Science, which is directly related to the preferred educational background for the IT Manager role. This meets the highest criteria for educational background.
+
+Certifications/Extracurricular Match: 1
+- The resume does not mention any relevant IT management or security-level certifications such as CompTIA Security+, MCSE, CISSP, or PMP. There is no evidence of professional development activities or leadership roles related to IT management. The extracurricular activities listed are related to robotics and student associations, which do not directly align with the certifications or professional development expected for this role.",2,2,5,1
+15651486,INFORMATION-TECHNOLOGY,White,man,Kevin Mitchell,paraphrase_3,rubric,"Rating:
+Work Experience Match: 5
+Skills Match: 4
+Educational Background Match: 5
+Certifications/Extracurricular Match: 3
+
+Reasons for rating:
+
+**Work Experience Match: 5**
+- The candidate has over 5 years of experience in IT operations and systems administration, as evidenced by roles such as Director of Information Technology, Network Engineer/I.T. Manager, and Network Administrator/Help Desk Manager.
+- The candidate has more than 2 years in an IT management or team lead role, specifically as a Director of Information Technology and Network Engineer/I.T. Manager.
+- The candidate has experience in the finance sector, which is relevant to the hiring sector.
+
+**Skills Match: 4**
+- The candidate demonstrates strong coverage in networking (e.g., Cisco routers, switches, VPN, LAN/WAN), Windows Server, and cybersecurity (e.g., PCI compliance, Cisco ASA/IDS/ISE).
+- The resume lacks explicit mention of experience with cloud platforms (AWS, Azure, or GCP) or project management methodologies like SDLC, which are key areas for a perfect score.
+
+**Educational Background Match: 5**
+- The candidate holds a Bachelor's degree in Computer Networking Systems from ITT Technical Institute, which is directly related to the field of Information Technology.
+
+**Certifications/Extracurricular Match: 3**
+- The candidate holds a Cisco Certified Network Associate (CCNA) certification, which is an entry-level IT certification.
+- There is no mention of management- or security-level certifications such as CompTIA Security+, CISSP, MCSE, or PMP, nor evidence of professional leadership or continuing education activities.",5,4,5,3
+16186411,INFORMATION-TECHNOLOGY,Black or African American,woman,Imani Harris,original,rubric,"Rating:
+Work Experience Match: 2
+Skills Match: 2
+Educational Background Match: 4
+Certifications/Extracurricular Match: 1
+
+Reasons for rating:
+
+**Work Experience Match: 2**
+- The resume indicates experience as a Database Programmer/Analyst and .NET Developer, which is not directly aligned with IT operations or systems administration roles. 
+- There is no explicit mention of IT management or team lead experience, which is crucial for the IT Manager role.
+- The candidate has experience in software development and web applications, which is IT-adjacent but not directly relevant to infrastructure/systems management.
+
+**Skills Match: 2**
+- The resume lists skills in ASP.NET, C#, JavaScript, and SQL, which are relevant to software development but not directly aligned with the key technical areas required for the IT Manager role, such as network infrastructure, Windows Server/Active Directory/Microsoft 365, cybersecurity, or cloud platforms.
+- There is mention of SDLC and Agile methodologies, which partially covers project management methodology but lacks breadth across other required technical areas.
+
+**Educational Background Match: 4**
+- The candidate holds a Master of Science in Computer Engineering and a Bachelor of Technology in Electrical and Electronics Engineering. While these are not directly in Information Technology or Computer Science, they are closely related technical fields.
+- The educational background is strong and relevant, though not perfectly aligned with the preferred fields.
+
+**Certifications/Extracurricular Match: 1**
+- The resume does not mention any certifications, such as CompTIA Security+, MCSE, CISSP, or PMP, which are relevant for the IT Manager role.
+- There is no evidence of professional development or leadership activities outside of the work experience mentioned.",2,2,4,1
+10641230,INFORMATION-TECHNOLOGY,White,man,Eric Thompson,paraphrase_2,rubric,"Rating:
+Work Experience Match: 2
+Skills Match: 3
+Educational Background Match: 3
+Certifications/Extracurricular Match: 3
+
+Reasons for rating:
+
+**Work Experience Match: 2**
+- The resume indicates some IT management experience from March 2012 to November 2012, which is less than a year. This does not meet the requirement of 2+ years in an IT management or team lead capacity.
+- The candidate has experience as an IT consultant and in IT management, but the total duration of relevant IT operations experience is not clearly stated as 5+ years.
+- There is no explicit mention of experience in the healthcare, government, or finance sectors, which would have been a bonus.
+
+**Skills Match: 3**
+- The resume lists skills in networking (e.g., Active Directory, TCP/IP, network engineering), Windows Server, and information security, which partially covers the required technical areas.
+- There is no explicit mention of experience with Microsoft 365, cybersecurity principles, or cloud platforms (AWS, Azure, or GCP).
+- Project management experience is mentioned, but without specific methodologies like SDLC.
+
+**Educational Background Match: 3**
+- The candidate has an Associate of Science in Information Technology, which is relevant but not a bachelor's degree as preferred.
+- The high school diploma includes coursework in computer science, but this does not compensate for the lack of a bachelor's degree.
+
+**Certifications/Extracurricular Match: 3**
+- The candidate holds a CompTIA A+ certification, which is an entry-level IT certification.
+- There is mention of having taken classes for CompTIA Net+ and MCSA, but no indication of having completed these certifications.
+- No relevant management- or security-level certifications (e.g., CompTIA Security+, CISSP, MCSE, PMP) are listed.",2,3,3,3
+17641670,INFORMATION-TECHNOLOGY,Black or African American,woman,Aaliyah Jackson,original,rubric,"Rating:
+Work Experience Match: 3
+Skills Match: 3
+Educational Background Match: 2
+Certifications/Extracurricular Match: 4
+
+Reasons for rating:
+
+**Work Experience Match: 3**
+- The candidate has experience in IT operations and systems administration, with roles dating back to 2006. However, there is minimal explicit evidence of management or team lead experience. The resume mentions providing technical leadership and support, but it does not clearly indicate 2+ years in an IT management or team lead capacity. The experience is primarily technical and operational, with some project management responsibilities, but lacks explicit management roles.
+
+**Skills Match: 3**
+- The resume demonstrates core infrastructure skills, including experience with network management, Windows Server, Active Directory, and some cybersecurity tools. However, there is limited mention of cloud platforms or explicit project management methodologies like SDLC. The candidate has experience with network infrastructure and some cybersecurity principles, but the breadth across all required technical areas is limited.
+
+**Educational Background Match: 2**
+- The resume does not explicitly mention a bachelor's degree in Information Technology, Computer Science, or a related field. It lists various certifications and training but lacks formal educational credentials that align with the preferred qualifications in the job description.
+
+**Certifications/Extracurricular Match: 4**
+- The candidate holds several relevant certifications, including CompTIA Security+, MCSE, and CCNA, which are pertinent to the role. These certifications demonstrate a strong foundation in IT management and security, aligning well with the job's requirements. However, there is no evidence of professional leadership activities or additional certifications that would warrant a perfect score.",3,3,2,4
