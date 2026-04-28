@@ -1,0 +1,143 @@
+MASTER JOB DESCRIPTION — DESIGNER
+===================================
+This is a composite JD that consolidates skills, responsibilities, and
+qualifications drawn from all Designer resumes in the dataset (Graphic
+Designers, Web Designers, UI/UX Designers, Product Designers, Visual/Brand
+Designers, Illustrators, Art Directors, and Print/Digital Designers).
+Use this single JD to score every Designer resume in the dataset against
+a common benchmark.
+===================================
+
+Job Title   : Design Professional (Composite)
+Domain      : Graphic Design / Visual Design / UI-UX / Brand & Web
+Employment  : Full-Time / Freelance
+Level       : Entry to Senior
+
+---
+
+ROLE SUMMARY
+We are looking for a creative and versatile Design Professional with experience
+across graphic design, visual communication, digital and print media, and/or
+user experience design. The ideal candidate has a strong design eye, command of
+industry-standard design tools, and the ability to deliver compelling visuals
+that communicate ideas effectively — whether for print, web, branding, or
+digital products.
+
+---
+
+CORE RESPONSIBILITIES
+
+Graphic & Visual Design
+- Conceptualize and produce design assets for print and digital channels:
+  brochures, posters, flyers, banners, signage, packaging, and newsletters.
+- Design logos, wordmarks, icons, and brand identity systems.
+- Create marketing and advertising materials aligned with brand guidelines.
+- Prepare production-ready files for print (CMYK, 300 dpi) and digital (RGB, 72 dpi).
+- Perform image retouching, photo manipulation, and compositing.
+- Design four-color layouts and manage print production workflows.
+
+Web & Digital Design
+- Design responsive website layouts, landing pages, and email templates.
+- Create digital assets for social media campaigns, display ads, and online publications.
+- Maintain and update web content through CMS platforms (WordPress, Webflow, Drupal).
+- Optimize images and assets for web performance.
+- Collaborate with developers to ensure accurate implementation of designs.
+- Apply accessibility best practices to digital design outputs.
+
+UI/UX & Product Design
+- Conduct user research: interviews, surveys, usability tests, and persona development.
+- Create wireframes, user flows, sitemaps, and low-to-high fidelity prototypes.
+- Design intuitive, accessible UI screens for web and mobile applications.
+- Build and maintain design systems and reusable component libraries.
+- Run usability tests and iterate based on user feedback and analytics.
+- Collaborate with product managers and engineers to ship polished product experiences.
+
+Brand & Identity Design
+- Develop and evolve brand identity systems: color palettes, typography, iconography,
+  illustration styles, and photography direction.
+- Produce and maintain brand standards guides and style documentation.
+- Ensure visual consistency across all brand touchpoints — digital, print, and environmental.
+- Lead creative campaigns from concept through final delivery.
+
+Art Direction & Creative Leadership
+- Lead creative concepting and ideation for campaigns and projects.
+- Supervise and mentor junior designers; review and provide constructive design feedback.
+- Manage multiple projects simultaneously, prioritizing workloads to meet deadlines.
+- Present and articulate design decisions to clients and stakeholders.
+- Conduct competitive visual analysis and stay current with design trends.
+
+---
+
+REQUIRED SKILLS
+
+Design Tools (one or more)
+  Adobe Creative Suite (Illustrator, Photoshop, InDesign, Acrobat, After Effects,
+  Premiere Pro), Figma, Sketch, Adobe XD, Canva, Quark XPress, Dreamweaver,
+  CorelDRAW, Procreate
+
+Print & Production
+  Four-color printing, CMYK color management, preflighting artwork, press-ready
+  file preparation, die-cutting, packaging layout, large-format print
+
+Web & Digital Skills
+  HTML5, CSS3 (basic to intermediate), WordPress, Webflow, email design
+  (Mailchimp, Constant Contact), social media asset creation, banner ads
+
+UI/UX & Prototyping
+  Figma (components, auto-layout, prototyping), wireframing, user flows,
+  usability testing, interaction design, design systems, responsive design,
+  mobile-first principles, WCAG accessibility guidelines
+
+Visual Design Fundamentals
+  Typography, color theory, layout and grid systems, visual hierarchy,
+  composition, illustration, iconography, photography direction,
+  image retouching, logo design, brand identity
+
+Motion & Multimedia (nice to have)
+  Adobe After Effects, Premiere Pro, Lottie animations, video editing,
+  GIF creation, 3D tools (Cinema 4D, Blender)
+
+Collaboration & Project Tools
+  Microsoft Office / Office 365, Google Workspace, Slack, Trello, Asana,
+  Jira, Basecamp, Dropbox, OneDrive, Acrobat for PDF review and markup
+
+---
+
+QUALIFICATIONS
+
+Education
+  - Bachelor's degree in Graphic Design, Visual Communication, Fine Arts,
+    Multimedia Design, Web Design, UX Design, or a related creative field.
+  - Equivalent professional experience or portfolio-demonstrated skill is accepted.
+  - Master's degree (MFA, M.Des) is a plus.
+
+Experience
+  - Entry-level: 0–2 years (strong portfolio of academic or freelance work welcome).
+  - Mid-level: 2–5 years of professional design experience in-house or at an agency.
+  - Senior-level: 5+ years with demonstrated creative leadership and brand ownership.
+
+Portfolio
+  - A strong portfolio is required demonstrating range across at least two of:
+    print design, brand identity, web/digital design, UI/UX, or illustration.
+
+Certifications & Training (any of the following are valued)
+  - Adobe Certified Professional (Photoshop, Illustrator, InDesign)
+  - Google UX Design Certificate
+  - Interaction Design Foundation (IxDF) Certifications
+  - HubSpot / Canva / Figma professional certifications
+
+---
+
+SOFT SKILLS
+  - Strong creative vision and attention to detail.
+  - Excellent visual communication and storytelling ability.
+  - Open to feedback; iterative, user-centred mindset.
+  - Ability to manage and prioritize multiple projects under tight deadlines.
+  - Strong verbal and written communication skills for presenting creative work.
+  - Collaborative team player as well as capable of working independently.
+  - Passion for design trends, typography, and visual culture.
+  - Client-facing experience: ability to interpret creative briefs and manage expectations.
+
+===================================
+END OF MASTER DESIGNER JOB DESCRIPTION
+===================================

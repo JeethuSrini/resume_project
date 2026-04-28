@@ -1,0 +1,158 @@
+MASTER JOB DESCRIPTION — INFORMATION TECHNOLOGY
+================================================
+This is a composite JD that consolidates skills, responsibilities, and
+qualifications drawn from all IT resumes in the dataset (Software Engineers,
+Web Developers, Data Scientists, DevOps, Cloud, Security, Network, ML/AI, QA,
+DB, Solutions Architects, and IT Specialists). Use this single JD to score
+every IT resume in the dataset against a common benchmark.
+================================================
+
+Job Title   : Information Technology Professional (Composite)
+Domain      : Information Technology / Software Engineering
+Employment  : Full-Time
+Level       : Entry to Senior
+
+---
+
+ROLE SUMMARY
+We are seeking a skilled IT professional with a solid foundation in software
+development, systems, networking, and/or data. The ideal candidate brings
+hands-on experience across one or more technology stacks, follows engineering
+best practices, and can contribute to building, maintaining, and securing
+complex technical systems.
+
+---
+
+CORE RESPONSIBILITIES
+
+Software Development & Engineering
+- Design, develop, test, and maintain software applications and web services.
+- Build RESTful APIs, microservices, and web applications using modern frameworks.
+- Follow software development life cycle (SDLC) methodologies: Agile, Scrum, Waterfall.
+- Write clean, maintainable, and well-documented code; participate in code reviews.
+- Debug, troubleshoot, and resolve application and system issues.
+- Migrate legacy systems and integrate third-party APIs and services.
+
+Web & Front-End Development
+- Develop responsive, accessible web interfaces using HTML5, CSS3, and JavaScript.
+- Build dynamic UIs with frameworks such as React, Angular, or Vue.js.
+- Implement cross-browser compatible and mobile-first designs.
+- Optimize front-end performance (lazy loading, minification, caching).
+
+Database & Data Management
+- Design, query, and optimize relational databases (MySQL, PostgreSQL, MS SQL Server, Oracle).
+- Work with NoSQL databases (MongoDB, Redis, Cassandra).
+- Write complex SQL queries, stored procedures, and views.
+- Perform data migration, ETL pipeline development, and data warehouse management.
+- Ensure data quality, integrity, and backup procedures.
+
+Data Science, ML & AI
+- Collect, clean, and preprocess structured and unstructured data.
+- Build and evaluate machine learning models (classification, regression, clustering, NLP).
+- Use Python libraries: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch.
+- Deploy ML models to production; monitor performance and retrain as needed.
+- Develop NLP pipelines for text classification, NER, summarization, and semantic search.
+
+DevOps, Cloud & Infrastructure
+- Design and maintain CI/CD pipelines (Jenkins, GitHub Actions, GitLab CI, CircleCI).
+- Provision and manage cloud infrastructure on AWS, Azure, or GCP using IaC (Terraform, Ansible).
+- Containerize and orchestrate applications using Docker and Kubernetes.
+- Monitor system health and respond to incidents (Prometheus, Grafana, Splunk, ELK stack).
+- Automate operational tasks using Bash, Python, or PowerShell scripts.
+- Manage version control workflows with Git (branching, pull requests, merges).
+
+Networking & Systems Administration
+- Configure, manage, and troubleshoot networks: TCP/IP, DNS, DHCP, VPN, LAN/WAN.
+- Administer operating systems: Windows Server, Linux (Ubuntu, CentOS, Red Hat), Unix.
+- Manage Active Directory, user accounts, group policies, and access controls.
+- Install, configure, and maintain servers, hardware, and peripherals.
+- Support virtualization platforms: VMware vSphere, Hyper-V.
+
+Information Security
+- Conduct vulnerability assessments and penetration tests (web, network, API).
+- Monitor security events with SIEM tools (Splunk, IBM QRadar, Microsoft Sentinel).
+- Implement and enforce security policies, IAM, firewall rules, and compliance standards.
+- Apply knowledge of OWASP Top 10, CVE management, and secure coding practices.
+- Perform incident response, forensics, and root-cause analysis.
+
+QA & Testing
+- Develop and execute manual and automated test plans (unit, integration, regression, UAT).
+- Build test automation using Selenium, JUnit, TestNG, Pytest, or Cypress.
+- Track and report defects using Jira, Bugzilla, or similar tools.
+- Ensure product quality through performance, load, and security testing.
+
+---
+
+REQUIRED SKILLS
+
+Programming Languages (one or more)
+  Python, Java, C#, C++, C, JavaScript, TypeScript, PHP, Ruby, Go, Bash, PowerShell,
+  SQL, PL/SQL, R, Scala, Kotlin, Swift
+
+Web Frameworks & Technologies
+  ASP.NET / .NET Core, Spring Boot, Django, Flask, FastAPI, Node.js, Express.js,
+  React, Angular, Vue.js, jQuery, HTML5, CSS3, Bootstrap, AJAX, XML, JSON
+
+Databases
+  MySQL, PostgreSQL, MS SQL Server, Oracle, MongoDB, Redis, Cassandra,
+  SQLite, Elasticsearch, Snowflake, BigQuery, Redshift
+
+Cloud Platforms & DevOps Tools
+  AWS (EC2, S3, Lambda, RDS, EKS), Azure (AKS, DevOps, AD), GCP (GKE, BigQuery)
+  Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, GitLab CI
+
+Data Science & ML Libraries
+  Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost,
+  Hugging Face Transformers, spaCy, NLTK, Matplotlib, Seaborn
+
+Networking & Systems
+  TCP/IP, DNS, DHCP, VPN, Active Directory, VMware vSphere, Windows Server,
+  Linux (Ubuntu / CentOS / RHEL), Unix, HP-UX
+
+Security Tools
+  Burp Suite, Metasploit, Nmap, Wireshark, Nessus, Splunk, OWASP, CEH, OSCP,
+  CompTIA Security+, CompTIA A+, CompTIA Network+
+
+Project & Collaboration Tools
+  Jira, Confluence, GitHub, GitLab, Bitbucket, MS Office / Office 365, Slack
+
+Methodologies
+  Agile / Scrum, SDLC, CI/CD, DevOps, TDD, Microservices, REST, SOAP, MVC
+
+---
+
+QUALIFICATIONS
+
+Education
+  - Bachelor's degree in Computer Science, Information Technology, Software Engineering,
+    or a related technical field (B.E., B.Tech, B.Sc, BCA, MCA, M.Tech, or equivalent).
+  - Master's degree is a plus.
+
+Experience
+  - Entry-level: 0–2 years (fresh graduates with strong project/internship experience welcome).
+  - Mid-level: 2–5 years of hands-on professional experience.
+  - Senior-level: 5+ years with demonstrated leadership and architecture experience.
+
+Certifications (any of the following are valued)
+  - AWS Certified (Solutions Architect, Developer, DevOps Engineer)
+  - Microsoft Certified (Azure, .NET, SQL)
+  - Google Cloud Professional
+  - Certified Kubernetes Administrator (CKA / CKAD)
+  - CompTIA A+, Network+, Security+
+  - CEH, OSCP, CISSP
+  - Oracle Certified Professional
+  - Scrum Master (CSM / PSM)
+
+---
+
+SOFT SKILLS
+  - Strong analytical and problem-solving abilities.
+  - Effective verbal and written communication skills.
+  - Ability to work independently and collaboratively in team environments.
+  - Self-motivated with a continuous learning mindset.
+  - Ability to manage multiple tasks in fast-paced, deadline-driven environments.
+  - Client-facing and customer service orientation.
+
+================================================
+END OF MASTER TECHNOLOGY JOB DESCRIPTION
+================================================
