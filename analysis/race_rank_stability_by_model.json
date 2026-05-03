@@ -1,0 +1,770 @@
+[
+  {
+    "model_short": "gemma-3-4b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_rank_stability": 0.6703,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.7165,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_rank_stability": 0.679,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.6703,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "DESIGNER",
+    "race": "White",
+    "avg_rank_stability": 0.8649,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "DESIGNER",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.8874,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "DESIGNER",
+    "race": "Asian",
+    "avg_rank_stability": 0.8905,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "DESIGNER",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.8627,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-12b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_rank_stability": 0.9165,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-12b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.9007,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-12b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_rank_stability": 0.9217,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-12b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.906,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-12b",
+    "category": "DESIGNER",
+    "race": "White",
+    "avg_rank_stability": 0.9603,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-12b",
+    "category": "DESIGNER",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.9611,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-12b",
+    "category": "DESIGNER",
+    "race": "Asian",
+    "avg_rank_stability": 0.9603,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-12b",
+    "category": "DESIGNER",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.9599,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_rank_stability": 0.9778,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.9979,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_rank_stability": 0.9661,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.9986,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "DESIGNER",
+    "race": "White",
+    "avg_rank_stability": 0.9734,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "DESIGNER",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.9796,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "DESIGNER",
+    "race": "Asian",
+    "avg_rank_stability": 0.9854,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "DESIGNER",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.9828,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_rank_stability": 0.7783,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.7833,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_rank_stability": 0.9702,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.8318,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "DESIGNER",
+    "race": "White",
+    "avg_rank_stability": 1.0,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "DESIGNER",
+    "race": "Black or African American",
+    "avg_rank_stability": 1.0,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "DESIGNER",
+    "race": "Asian",
+    "avg_rank_stability": 0.949,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "DESIGNER",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.966,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_rank_stability": 0.8614,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.8376,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_rank_stability": 0.8332,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.8326,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "DESIGNER",
+    "race": "White",
+    "avg_rank_stability": 0.9332,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "DESIGNER",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.952,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "DESIGNER",
+    "race": "Asian",
+    "avg_rank_stability": 0.9561,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "DESIGNER",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.9379,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_rank_stability": 0.8161,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.8675,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_rank_stability": 0.7707,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.8048,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "DESIGNER",
+    "race": "White",
+    "avg_rank_stability": 0.9668,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "DESIGNER",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.9497,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "DESIGNER",
+    "race": "Asian",
+    "avg_rank_stability": 0.9787,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "DESIGNER",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.9948,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_rank_stability": 0.9292,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.9586,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_rank_stability": 0.9251,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.9586,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "DESIGNER",
+    "race": "White",
+    "avg_rank_stability": 0.985,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "DESIGNER",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.9887,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "DESIGNER",
+    "race": "Asian",
+    "avg_rank_stability": 0.9859,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "DESIGNER",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.8632,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_rank_stability": 0.9228,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.9318,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_rank_stability": 0.9553,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.9319,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "DESIGNER",
+    "race": "White",
+    "avg_rank_stability": 0.9336,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "DESIGNER",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.952,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "DESIGNER",
+    "race": "Asian",
+    "avg_rank_stability": 0.9323,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "DESIGNER",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.9526,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_rank_stability": 0.8611,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.8129,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_rank_stability": 0.9118,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.874,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "DESIGNER",
+    "race": "White",
+    "avg_rank_stability": 1.0,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "DESIGNER",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.9941,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "DESIGNER",
+    "race": "Asian",
+    "avg_rank_stability": 0.98,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "DESIGNER",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 1.0,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_rank_stability": 0.7268,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.7525,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_rank_stability": 0.6405,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.8342,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "DESIGNER",
+    "race": "White",
+    "avg_rank_stability": 0.9198,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "DESIGNER",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.9537,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "DESIGNER",
+    "race": "Asian",
+    "avg_rank_stability": 0.8719,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "DESIGNER",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.9546,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_rank_stability": 0.9372,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.9397,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_rank_stability": 0.9235,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.9401,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "DESIGNER",
+    "race": "White",
+    "avg_rank_stability": 1.0,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "DESIGNER",
+    "race": "Black or African American",
+    "avg_rank_stability": 1.0,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "DESIGNER",
+    "race": "Asian",
+    "avg_rank_stability": 0.9942,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "DESIGNER",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.9826,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_rank_stability": 0.7145,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.8657,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_rank_stability": 0.8801,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.8247,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "DESIGNER",
+    "race": "White",
+    "avg_rank_stability": 0.9005,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "DESIGNER",
+    "race": "Black or African American",
+    "avg_rank_stability": 0.9519,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "DESIGNER",
+    "race": "Asian",
+    "avg_rank_stability": 0.9464,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "DESIGNER",
+    "race": "Hispanic or Latino",
+    "avg_rank_stability": 0.8857,
+    "n_resumes": 10,
+    "n_version_pairs": 10
+  }
+]

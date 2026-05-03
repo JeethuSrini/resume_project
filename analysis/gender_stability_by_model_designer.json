@@ -1,0 +1,170 @@
+[
+  {
+    "model_short": "gemma-3-12b",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9284,
+    "count": 40
+  },
+  {
+    "model_short": "gemma-3-12b",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.9331,
+    "count": 40
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9569,
+    "count": 40
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.963,
+    "count": 40
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9016,
+    "count": 40
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.9205,
+    "count": 40
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9851,
+    "count": 40
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.9815,
+    "count": 40
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.94,
+    "count": 40
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.9508,
+    "count": 40
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9699,
+    "count": 40
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.9729,
+    "count": 40
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9414,
+    "count": 40
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.9196,
+    "count": 40
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.966,
+    "count": 40
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.9674,
+    "count": 40
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9517,
+    "count": 40
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.9572,
+    "count": 40
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9771,
+    "count": 40
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.984,
+    "count": 40
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.8878,
+    "count": 40
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.8946,
+    "count": 40
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.8838,
+    "count": 40
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.8869,
+    "count": 40
+  }
+]

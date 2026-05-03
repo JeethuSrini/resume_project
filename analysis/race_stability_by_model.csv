@@ -1,0 +1,97 @@
+model_short,category,race,avg_stability,count
+gemma-3-12b,DESIGNER,Asian,0.9226,20
+gemma-3-12b,DESIGNER,Black or African American,0.9226,20
+gemma-3-12b,DESIGNER,Hispanic or Latino,0.9237,20
+gemma-3-12b,DESIGNER,White,0.9226,20
+gemma-3-12b,INFORMATION-TECHNOLOGY,Asian,0.9359,20
+gemma-3-12b,INFORMATION-TECHNOLOGY,Black or African American,0.916,20
+gemma-3-12b,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.926,20
+gemma-3-12b,INFORMATION-TECHNOLOGY,White,0.926,20
+gemma-3-27b,DESIGNER,Asian,0.9668,20
+gemma-3-27b,DESIGNER,Black or African American,0.9729,20
+gemma-3-27b,DESIGNER,Hispanic or Latino,0.9696,20
+gemma-3-27b,DESIGNER,White,0.9607,20
+gemma-3-27b,INFORMATION-TECHNOLOGY,Asian,0.9641,20
+gemma-3-27b,INFORMATION-TECHNOLOGY,Black or African American,0.979,20
+gemma-3-27b,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.984,20
+gemma-3-27b,INFORMATION-TECHNOLOGY,White,0.9679,20
+gemma-3-4b,DESIGNER,Asian,0.936,20
+gemma-3-4b,DESIGNER,Black or African American,0.9298,20
+gemma-3-4b,DESIGNER,Hispanic or Latino,0.9208,20
+gemma-3-4b,DESIGNER,White,0.9258,20
+gemma-3-4b,INFORMATION-TECHNOLOGY,Asian,0.8795,20
+gemma-3-4b,INFORMATION-TECHNOLOGY,Black or African American,0.8823,20
+gemma-3-4b,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.8724,20
+gemma-3-4b,INFORMATION-TECHNOLOGY,White,0.8697,20
+gpt-4o,DESIGNER,Asian,0.9851,20
+gpt-4o,DESIGNER,Black or African American,0.9889,20
+gpt-4o,DESIGNER,Hispanic or Latino,0.995,20
+gpt-4o,DESIGNER,White,0.995,20
+gpt-4o,INFORMATION-TECHNOLOGY,Asian,0.974,20
+gpt-4o,INFORMATION-TECHNOLOGY,Black or African American,0.9332,20
+gpt-4o,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.9481,20
+gpt-4o,INFORMATION-TECHNOLOGY,White,0.953,20
+gpt-4o-mini,DESIGNER,Asian,0.9452,20
+gpt-4o-mini,DESIGNER,Black or African American,0.947,20
+gpt-4o-mini,DESIGNER,Hispanic or Latino,0.9458,20
+gpt-4o-mini,DESIGNER,White,0.9464,20
+gpt-4o-mini,INFORMATION-TECHNOLOGY,Asian,0.9707,20
+gpt-4o-mini,INFORMATION-TECHNOLOGY,Black or African American,0.9657,20
+gpt-4o-mini,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.9668,20
+gpt-4o-mini,INFORMATION-TECHNOLOGY,White,0.9569,20
+llama-3.1-8b,DESIGNER,Asian,0.984,20
+llama-3.1-8b,DESIGNER,Black or African American,0.9851,20
+llama-3.1-8b,DESIGNER,Hispanic or Latino,0.984,20
+llama-3.1-8b,DESIGNER,White,0.995,20
+llama-3.1-8b,INFORMATION-TECHNOLOGY,Asian,0.906,20
+llama-3.1-8b,INFORMATION-TECHNOLOGY,Black or African American,0.8801,20
+llama-3.1-8b,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.9054,20
+llama-3.1-8b,INFORMATION-TECHNOLOGY,White,0.9186,20
+llama-3.3-70b,DESIGNER,Asian,0.9458,20
+llama-3.3-70b,DESIGNER,Black or African American,0.9442,20
+llama-3.3-70b,DESIGNER,Hispanic or Latino,0.9332,20
+llama-3.3-70b,DESIGNER,White,0.9442,20
+llama-3.3-70b,INFORMATION-TECHNOLOGY,Asian,0.8933,20
+llama-3.3-70b,INFORMATION-TECHNOLOGY,Black or African American,0.8955,20
+llama-3.3-70b,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.9127,20
+llama-3.3-70b,INFORMATION-TECHNOLOGY,White,0.9155,20
+llama-4-maverick,DESIGNER,Asian,0.9641,20
+llama-4-maverick,DESIGNER,Black or African American,0.9691,20
+llama-4-maverick,DESIGNER,Hispanic or Latino,0.9393,20
+llama-4-maverick,DESIGNER,White,0.963,20
+llama-4-maverick,INFORMATION-TECHNOLOGY,Asian,0.9542,20
+llama-4-maverick,INFORMATION-TECHNOLOGY,Black or African American,0.9801,20
+llama-4-maverick,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.9679,20
+llama-4-maverick,INFORMATION-TECHNOLOGY,White,0.974,20
+llama-4-scout,DESIGNER,Asian,0.9492,20
+llama-4-scout,DESIGNER,Black or African American,0.9188,20
+llama-4-scout,DESIGNER,Hispanic or Latino,0.9537,20
+llama-4-scout,DESIGNER,White,0.9343,20
+llama-4-scout,INFORMATION-TECHNOLOGY,Asian,0.8991,20
+llama-4-scout,INFORMATION-TECHNOLOGY,Black or African American,0.9138,20
+llama-4-scout,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.9011,20
+llama-4-scout,INFORMATION-TECHNOLOGY,White,0.9109,20
+qwen-2.5-72b,DESIGNER,Asian,0.9829,20
+qwen-2.5-72b,DESIGNER,Black or African American,0.9829,20
+qwen-2.5-72b,DESIGNER,Hispanic or Latino,0.9801,20
+qwen-2.5-72b,DESIGNER,White,0.9939,20
+qwen-2.5-72b,INFORMATION-TECHNOLOGY,Asian,0.9519,20
+qwen-2.5-72b,INFORMATION-TECHNOLOGY,Black or African American,0.9729,20
+qwen-2.5-72b,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.9679,20
+qwen-2.5-72b,INFORMATION-TECHNOLOGY,White,0.9569,20
+qwen-2.5-7b,DESIGNER,Asian,0.8795,20
+qwen-2.5-7b,DESIGNER,Black or African American,0.9083,20
+qwen-2.5-7b,DESIGNER,Hispanic or Latino,0.8925,20
+qwen-2.5-7b,DESIGNER,White,0.8873,20
+qwen-2.5-7b,INFORMATION-TECHNOLOGY,Asian,0.8575,20
+qwen-2.5-7b,INFORMATION-TECHNOLOGY,Black or African American,0.8725,20
+qwen-2.5-7b,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.8915,20
+qwen-2.5-7b,INFORMATION-TECHNOLOGY,White,0.8768,20
+qwen3-14b,DESIGNER,Asian,0.8914,20
+qwen3-14b,DESIGNER,Black or African American,0.8885,20
+qwen3-14b,DESIGNER,Hispanic or Latino,0.8844,20
+qwen3-14b,DESIGNER,White,0.8836,20
+qwen3-14b,INFORMATION-TECHNOLOGY,Asian,0.8947,20
+qwen3-14b,INFORMATION-TECHNOLOGY,Black or African American,0.8918,20
+qwen3-14b,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.8824,20
+qwen3-14b,INFORMATION-TECHNOLOGY,White,0.8792,20

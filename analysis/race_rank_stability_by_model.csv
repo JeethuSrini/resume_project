@@ -1,0 +1,97 @@
+model_short,category,race,avg_rank_stability,n_resumes,n_version_pairs
+gemma-3-4b,INFORMATION-TECHNOLOGY,White,0.6703,10,10
+gemma-3-4b,INFORMATION-TECHNOLOGY,Black or African American,0.7165,10,10
+gemma-3-4b,INFORMATION-TECHNOLOGY,Asian,0.679,10,10
+gemma-3-4b,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.6703,10,10
+gemma-3-4b,DESIGNER,White,0.8649,10,10
+gemma-3-4b,DESIGNER,Black or African American,0.8874,10,10
+gemma-3-4b,DESIGNER,Asian,0.8905,10,10
+gemma-3-4b,DESIGNER,Hispanic or Latino,0.8627,10,10
+gemma-3-12b,INFORMATION-TECHNOLOGY,White,0.9165,10,10
+gemma-3-12b,INFORMATION-TECHNOLOGY,Black or African American,0.9007,10,10
+gemma-3-12b,INFORMATION-TECHNOLOGY,Asian,0.9217,10,10
+gemma-3-12b,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.906,10,10
+gemma-3-12b,DESIGNER,White,0.9603,10,10
+gemma-3-12b,DESIGNER,Black or African American,0.9611,10,10
+gemma-3-12b,DESIGNER,Asian,0.9603,10,10
+gemma-3-12b,DESIGNER,Hispanic or Latino,0.9599,10,10
+gemma-3-27b,INFORMATION-TECHNOLOGY,White,0.9778,10,10
+gemma-3-27b,INFORMATION-TECHNOLOGY,Black or African American,0.9979,10,10
+gemma-3-27b,INFORMATION-TECHNOLOGY,Asian,0.9661,10,10
+gemma-3-27b,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.9986,10,10
+gemma-3-27b,DESIGNER,White,0.9734,10,10
+gemma-3-27b,DESIGNER,Black or African American,0.9796,10,10
+gemma-3-27b,DESIGNER,Asian,0.9854,10,10
+gemma-3-27b,DESIGNER,Hispanic or Latino,0.9828,10,10
+llama-3.1-8b,INFORMATION-TECHNOLOGY,White,0.7783,10,10
+llama-3.1-8b,INFORMATION-TECHNOLOGY,Black or African American,0.7833,10,10
+llama-3.1-8b,INFORMATION-TECHNOLOGY,Asian,0.9702,10,10
+llama-3.1-8b,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.8318,10,10
+llama-3.1-8b,DESIGNER,White,1.0,10,10
+llama-3.1-8b,DESIGNER,Black or African American,1.0,10,10
+llama-3.1-8b,DESIGNER,Asian,0.949,10,10
+llama-3.1-8b,DESIGNER,Hispanic or Latino,0.966,10,10
+llama-3.3-70b,INFORMATION-TECHNOLOGY,White,0.8614,10,10
+llama-3.3-70b,INFORMATION-TECHNOLOGY,Black or African American,0.8376,10,10
+llama-3.3-70b,INFORMATION-TECHNOLOGY,Asian,0.8332,10,10
+llama-3.3-70b,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.8326,10,10
+llama-3.3-70b,DESIGNER,White,0.9332,10,10
+llama-3.3-70b,DESIGNER,Black or African American,0.952,10,10
+llama-3.3-70b,DESIGNER,Asian,0.9561,10,10
+llama-3.3-70b,DESIGNER,Hispanic or Latino,0.9379,10,10
+llama-4-scout,INFORMATION-TECHNOLOGY,White,0.8161,10,10
+llama-4-scout,INFORMATION-TECHNOLOGY,Black or African American,0.8675,10,10
+llama-4-scout,INFORMATION-TECHNOLOGY,Asian,0.7707,10,10
+llama-4-scout,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.8048,10,10
+llama-4-scout,DESIGNER,White,0.9668,10,10
+llama-4-scout,DESIGNER,Black or African American,0.9497,10,10
+llama-4-scout,DESIGNER,Asian,0.9787,10,10
+llama-4-scout,DESIGNER,Hispanic or Latino,0.9948,10,10
+llama-4-maverick,INFORMATION-TECHNOLOGY,White,0.9292,10,10
+llama-4-maverick,INFORMATION-TECHNOLOGY,Black or African American,0.9586,10,10
+llama-4-maverick,INFORMATION-TECHNOLOGY,Asian,0.9251,10,10
+llama-4-maverick,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.9586,10,10
+llama-4-maverick,DESIGNER,White,0.985,10,10
+llama-4-maverick,DESIGNER,Black or African American,0.9887,10,10
+llama-4-maverick,DESIGNER,Asian,0.9859,10,10
+llama-4-maverick,DESIGNER,Hispanic or Latino,0.8632,10,10
+gpt-4o-mini,INFORMATION-TECHNOLOGY,White,0.9228,10,10
+gpt-4o-mini,INFORMATION-TECHNOLOGY,Black or African American,0.9318,10,10
+gpt-4o-mini,INFORMATION-TECHNOLOGY,Asian,0.9553,10,10
+gpt-4o-mini,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.9319,10,10
+gpt-4o-mini,DESIGNER,White,0.9336,10,10
+gpt-4o-mini,DESIGNER,Black or African American,0.952,10,10
+gpt-4o-mini,DESIGNER,Asian,0.9323,10,10
+gpt-4o-mini,DESIGNER,Hispanic or Latino,0.9526,10,10
+gpt-4o,INFORMATION-TECHNOLOGY,White,0.8611,10,10
+gpt-4o,INFORMATION-TECHNOLOGY,Black or African American,0.8129,10,10
+gpt-4o,INFORMATION-TECHNOLOGY,Asian,0.9118,10,10
+gpt-4o,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.874,10,10
+gpt-4o,DESIGNER,White,1.0,10,10
+gpt-4o,DESIGNER,Black or African American,0.9941,10,10
+gpt-4o,DESIGNER,Asian,0.98,10,10
+gpt-4o,DESIGNER,Hispanic or Latino,1.0,10,10
+qwen-2.5-7b,INFORMATION-TECHNOLOGY,White,0.7268,10,10
+qwen-2.5-7b,INFORMATION-TECHNOLOGY,Black or African American,0.7525,10,10
+qwen-2.5-7b,INFORMATION-TECHNOLOGY,Asian,0.6405,10,10
+qwen-2.5-7b,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.8342,10,10
+qwen-2.5-7b,DESIGNER,White,0.9198,10,10
+qwen-2.5-7b,DESIGNER,Black or African American,0.9537,10,10
+qwen-2.5-7b,DESIGNER,Asian,0.8719,10,10
+qwen-2.5-7b,DESIGNER,Hispanic or Latino,0.9546,10,10
+qwen-2.5-72b,INFORMATION-TECHNOLOGY,White,0.9372,10,10
+qwen-2.5-72b,INFORMATION-TECHNOLOGY,Black or African American,0.9397,10,10
+qwen-2.5-72b,INFORMATION-TECHNOLOGY,Asian,0.9235,10,10
+qwen-2.5-72b,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.9401,10,10
+qwen-2.5-72b,DESIGNER,White,1.0,10,10
+qwen-2.5-72b,DESIGNER,Black or African American,1.0,10,10
+qwen-2.5-72b,DESIGNER,Asian,0.9942,10,10
+qwen-2.5-72b,DESIGNER,Hispanic or Latino,0.9826,10,10
+qwen3-14b,INFORMATION-TECHNOLOGY,White,0.7145,10,10
+qwen3-14b,INFORMATION-TECHNOLOGY,Black or African American,0.8657,10,10
+qwen3-14b,INFORMATION-TECHNOLOGY,Asian,0.8801,10,10
+qwen3-14b,INFORMATION-TECHNOLOGY,Hispanic or Latino,0.8247,10,10
+qwen3-14b,DESIGNER,White,0.9005,10,10
+qwen3-14b,DESIGNER,Black or African American,0.9519,10,10
+qwen3-14b,DESIGNER,Asian,0.9464,10,10
+qwen3-14b,DESIGNER,Hispanic or Latino,0.8857,10,10

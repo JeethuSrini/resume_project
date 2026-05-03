@@ -1,0 +1,338 @@
+[
+  {
+    "model_short": "gemma-3-12b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_stability": 0.9271,
+    "count": 20
+  },
+  {
+    "model_short": "gemma-3-12b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_stability": 0.916,
+    "count": 20
+  },
+  {
+    "model_short": "gemma-3-12b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_stability": 0.921,
+    "count": 20
+  },
+  {
+    "model_short": "gemma-3-12b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_stability": 0.916,
+    "count": 20
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_stability": 0.9751,
+    "count": 20
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_stability": 0.979,
+    "count": 20
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_stability": 0.9751,
+    "count": 20
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_stability": 0.984,
+    "count": 20
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_stability": 0.8817,
+    "count": 20
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_stability": 0.8205,
+    "count": 20
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_stability": 0.8636,
+    "count": 20
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_stability": 0.8556,
+    "count": 20
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_stability": 0.9524,
+    "count": 20
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_stability": 0.9536,
+    "count": 20
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_stability": 0.9542,
+    "count": 20
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_stability": 0.9407,
+    "count": 20
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_stability": 0.9558,
+    "count": 20
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_stability": 0.9657,
+    "count": 20
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_stability": 0.9619,
+    "count": 20
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_stability": 0.9569,
+    "count": 20
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_stability": 0.8808,
+    "count": 20
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_stability": 0.8773,
+    "count": 20
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_stability": 0.9044,
+    "count": 20
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_stability": 0.9088,
+    "count": 20
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_stability": 0.8999,
+    "count": 20
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_stability": 0.9375,
+    "count": 20
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_stability": 0.9182,
+    "count": 20
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_stability": 0.9271,
+    "count": 20
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_stability": 0.9332,
+    "count": 20
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_stability": 0.9596,
+    "count": 20
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_stability": 0.9558,
+    "count": 20
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_stability": 0.9779,
+    "count": 20
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_stability": 0.9309,
+    "count": 20
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_stability": 0.8905,
+    "count": 20
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_stability": 0.9369,
+    "count": 20
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_stability": 0.9199,
+    "count": 20
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_stability": 0.953,
+    "count": 20
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_stability": 0.9641,
+    "count": 20
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_stability": 0.974,
+    "count": 20
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_stability": 0.958,
+    "count": 20
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_stability": 0.8769,
+    "count": 20
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_stability": 0.8827,
+    "count": 20
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_stability": 0.9039,
+    "count": 20
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_stability": 0.9027,
+    "count": 20
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Asian",
+    "avg_stability": 0.8919,
+    "count": 20
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Black or African American",
+    "avg_stability": 0.8658,
+    "count": 20
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "Hispanic or Latino",
+    "avg_stability": 0.8704,
+    "count": 20
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "race": "White",
+    "avg_stability": 0.878,
+    "count": 20
+  }
+]

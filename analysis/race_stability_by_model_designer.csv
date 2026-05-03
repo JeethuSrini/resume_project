@@ -1,0 +1,49 @@
+model_short,category,race,avg_stability,count
+gemma-3-12b,DESIGNER,Asian,0.9248,20
+gemma-3-12b,DESIGNER,Black or African American,0.942,20
+gemma-3-12b,DESIGNER,Hispanic or Latino,0.9348,20
+gemma-3-12b,DESIGNER,White,0.9215,20
+gemma-3-27b,DESIGNER,Asian,0.9519,20
+gemma-3-27b,DESIGNER,Black or African American,0.9641,20
+gemma-3-27b,DESIGNER,Hispanic or Latino,0.963,20
+gemma-3-27b,DESIGNER,White,0.9607,20
+gemma-3-4b,DESIGNER,Asian,0.9087,20
+gemma-3-4b,DESIGNER,Black or African American,0.9077,20
+gemma-3-4b,DESIGNER,Hispanic or Latino,0.9053,20
+gemma-3-4b,DESIGNER,White,0.9226,20
+gpt-4o,DESIGNER,Asian,0.9851,20
+gpt-4o,DESIGNER,Black or African American,0.984,20
+gpt-4o,DESIGNER,Hispanic or Latino,0.9851,20
+gpt-4o,DESIGNER,White,0.979,20
+gpt-4o-mini,DESIGNER,Asian,0.9425,20
+gpt-4o-mini,DESIGNER,Black or African American,0.9398,20
+gpt-4o-mini,DESIGNER,Hispanic or Latino,0.9508,20
+gpt-4o-mini,DESIGNER,White,0.9486,20
+llama-3.1-8b,DESIGNER,Asian,0.9668,20
+llama-3.1-8b,DESIGNER,Black or African American,0.9668,20
+llama-3.1-8b,DESIGNER,Hispanic or Latino,0.979,20
+llama-3.1-8b,DESIGNER,White,0.9729,20
+llama-3.3-70b,DESIGNER,Asian,0.9304,20
+llama-3.3-70b,DESIGNER,Black or African American,0.9332,20
+llama-3.3-70b,DESIGNER,Hispanic or Latino,0.9248,20
+llama-3.3-70b,DESIGNER,White,0.9337,20
+llama-4-maverick,DESIGNER,Asian,0.9729,20
+llama-4-maverick,DESIGNER,Black or African American,0.9519,20
+llama-4-maverick,DESIGNER,Hispanic or Latino,0.9691,20
+llama-4-maverick,DESIGNER,White,0.9729,20
+llama-4-scout,DESIGNER,Asian,0.9587,20
+llama-4-scout,DESIGNER,Black or African American,0.9442,20
+llama-4-scout,DESIGNER,Hispanic or Latino,0.9519,20
+llama-4-scout,DESIGNER,White,0.963,20
+qwen-2.5-72b,DESIGNER,Asian,0.974,20
+qwen-2.5-72b,DESIGNER,Black or African American,0.9851,20
+qwen-2.5-72b,DESIGNER,Hispanic or Latino,0.979,20
+qwen-2.5-72b,DESIGNER,White,0.984,20
+qwen-2.5-7b,DESIGNER,Asian,0.8992,20
+qwen-2.5-7b,DESIGNER,Black or African American,0.8967,20
+qwen-2.5-7b,DESIGNER,Hispanic or Latino,0.8903,20
+qwen-2.5-7b,DESIGNER,White,0.8786,20
+qwen3-14b,DESIGNER,Asian,0.8753,20
+qwen3-14b,DESIGNER,Black or African American,0.8949,20
+qwen3-14b,DESIGNER,Hispanic or Latino,0.8785,20
+qwen3-14b,DESIGNER,White,0.8925,20

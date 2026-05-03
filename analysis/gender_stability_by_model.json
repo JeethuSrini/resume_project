@@ -1,0 +1,338 @@
+[
+  {
+    "model_short": "gemma-3-12b",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9237,
+    "count": 40
+  },
+  {
+    "model_short": "gemma-3-12b",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.9221,
+    "count": 40
+  },
+  {
+    "model_short": "gemma-3-12b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "man",
+    "avg_stability": 0.926,
+    "count": 40
+  },
+  {
+    "model_short": "gemma-3-12b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "woman",
+    "avg_stability": 0.926,
+    "count": 40
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9663,
+    "count": 40
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.9688,
+    "count": 40
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "man",
+    "avg_stability": 0.9735,
+    "count": 40
+  },
+  {
+    "model_short": "gemma-3-27b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "woman",
+    "avg_stability": 0.974,
+    "count": 40
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.921,
+    "count": 40
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.9352,
+    "count": 40
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "man",
+    "avg_stability": 0.8765,
+    "count": 40
+  },
+  {
+    "model_short": "gemma-3-4b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "woman",
+    "avg_stability": 0.8754,
+    "count": 40
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9901,
+    "count": 40
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.992,
+    "count": 40
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "man",
+    "avg_stability": 0.9569,
+    "count": 40
+  },
+  {
+    "model_short": "gpt-4o",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "woman",
+    "avg_stability": 0.9473,
+    "count": 40
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9491,
+    "count": 40
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.9431,
+    "count": 40
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "man",
+    "avg_stability": 0.9619,
+    "count": 40
+  },
+  {
+    "model_short": "gpt-4o-mini",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "woman",
+    "avg_stability": 0.9682,
+    "count": 40
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9796,
+    "count": 40
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.9945,
+    "count": 40
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "man",
+    "avg_stability": 0.8801,
+    "count": 40
+  },
+  {
+    "model_short": "llama-3.1-8b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "woman",
+    "avg_stability": 0.925,
+    "count": 40
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9467,
+    "count": 40
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.937,
+    "count": 40
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "man",
+    "avg_stability": 0.9058,
+    "count": 40
+  },
+  {
+    "model_short": "llama-3.3-70b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "woman",
+    "avg_stability": 0.9027,
+    "count": 40
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9655,
+    "count": 40
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.9522,
+    "count": 40
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "man",
+    "avg_stability": 0.979,
+    "count": 40
+  },
+  {
+    "model_short": "llama-4-maverick",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "woman",
+    "avg_stability": 0.9591,
+    "count": 40
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9255,
+    "count": 40
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.9525,
+    "count": 40
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "man",
+    "avg_stability": 0.9075,
+    "count": 40
+  },
+  {
+    "model_short": "llama-4-scout",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "woman",
+    "avg_stability": 0.9049,
+    "count": 40
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.9779,
+    "count": 40
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.992,
+    "count": 40
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "man",
+    "avg_stability": 0.9649,
+    "count": 40
+  },
+  {
+    "model_short": "qwen-2.5-72b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "woman",
+    "avg_stability": 0.9599,
+    "count": 40
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.8927,
+    "count": 40
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.8911,
+    "count": 40
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "man",
+    "avg_stability": 0.8673,
+    "count": 40
+  },
+  {
+    "model_short": "qwen-2.5-7b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "woman",
+    "avg_stability": 0.8819,
+    "count": 40
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "DESIGNER",
+    "gender": "man",
+    "avg_stability": 0.8956,
+    "count": 40
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "DESIGNER",
+    "gender": "woman",
+    "avg_stability": 0.8783,
+    "count": 40
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "man",
+    "avg_stability": 0.8809,
+    "count": 40
+  },
+  {
+    "model_short": "qwen3-14b",
+    "category": "INFORMATION-TECHNOLOGY",
+    "gender": "woman",
+    "avg_stability": 0.8931,
+    "count": 40
+  }
+]
