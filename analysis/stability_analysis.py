@@ -277,7 +277,7 @@ def plot_stability_heatmap(
 
     metrics = [
         ("Score Stability  (1 − σ/σ_max)", score_lookup, "RdYlGn", 0.70, 1.00),
-        ("Rank Stability  (Spearman ρ)",    rank_lookup,  "RdYlGn", 0.00, 1.00),
+        ("Rank Stability  (Spearman ρ)",    rank_lookup,  "RdYlGn", 0.60, 1.00),
     ]
 
     for row, (row_label, lookup, cmap, vmin, vmax) in enumerate(metrics):
